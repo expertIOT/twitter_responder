@@ -1,0 +1,13 @@
+D:\Develop\TwitterWrapper\TwitterMsgServices\TwitterMsgServices\bin\Release\TwitterMsgServices.exe
+D:\Develop\TwitterWrapper\TwitterMsgServices\TwitterMsgServices\bin\Release\TwitterMsgServices.pdb
+D:\Develop\TwitterWrapper\TwitterMsgServices\TwitterMsgServices\bin\Release\Newtonsoft.Json.dll
+D:\Develop\TwitterWrapper\TwitterMsgServices\TwitterMsgServices\bin\Release\TweetSharp.dll
+D:\Develop\TwitterWrapper\TwitterMsgServices\TwitterMsgServices\bin\Release\Newtonsoft.Json.xml
+D:\Develop\TwitterWrapper\TwitterMsgServices\TwitterMsgServices\bin\Release\TweetSharp.pdb
+D:\Develop\TwitterWrapper\TwitterMsgServices\TwitterMsgServices\obj\Release\TwitterMsgServices.ProjectInstaller.resources
+D:\Develop\TwitterWrapper\TwitterMsgServices\TwitterMsgServices\obj\Release\TwitterMsgServices.TwitterMsgService.resources
+D:\Develop\TwitterWrapper\TwitterMsgServices\TwitterMsgServices\obj\Release\TwitterMsgServices.csproj.GenerateResource.Cache
+D:\Develop\TwitterWrapper\TwitterMsgServices\TwitterMsgServices\obj\Release\TwitterMsgServices.exe
+D:\Develop\TwitterWrapper\TwitterMsgServices\TwitterMsgServices\obj\Release\TwitterMsgServices.pdb
+D:\Develop\TwitterWrapper\TwitterMsgServices\TwitterMsgServices\bin\Release\Hammock.dll
+D:\Develop\TwitterWrapper\TwitterMsgServices\TwitterMsgServices\bin\Release\Hammock.pdb
